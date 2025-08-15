@@ -7,8 +7,6 @@ This repository contains my personal learning journey, examples, and projects as
 
 
 
-manas siddhey 
-
 ---
 
 ## 📌 About
