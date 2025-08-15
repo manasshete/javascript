@@ -1,4 +1,4 @@
-# javascript
+# javascript by siddhey 
 
 # JS from Scratch 🚀
 
